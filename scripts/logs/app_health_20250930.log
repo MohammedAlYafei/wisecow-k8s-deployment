@@ -1,0 +1,4 @@
+[2025-09-30 17:54:27] [INFO] Google (https://www.google.com) - Status: UP | Code: 200 | Time: 1296.95ms
+[2025-09-30 17:54:27] [INFO] GitHub (https://github.com) - Status: UP | Code: 200 | Time: 875.71ms
+[2025-09-30 17:54:28] [ERROR] Invalid Site (Demo) (https://thissitedoesnotexist12345.com) - Status: DOWN | Error: Connection failed
+[2025-09-30 17:54:28] [INFO] Summary - Total: 3, UP: 2, DOWN: 1, ERRORS: 0
